@@ -1,4 +1,4 @@
-#📌 Cuantificación de Incertidumbre en Modelos de Machine Learning en la Especialidad de Dermatología
+# 📌Cuantificación de Incertidumbre en Modelos de Machine Learning en la Especialidad de Dermatología
 
 Este repositorio contiene un notebook orientado al estudio y aplicación de técnicas de cuantificación de incertidumbre en modelos de Machine Learning.
 El estudio se realiza creando deep esembles de segmentación de lunares. 
