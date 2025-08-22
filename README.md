@@ -2,4 +2,7 @@
 
 Este repositorio contiene un notebook orientado al estudio y aplicación de técnicas de cuantificación de incertidumbre en modelos de Machine Learning.
 
-El trabajo se centra en la segmentación de lunares mediante deep ensembles, permitiendo evaluar la variabilidad en las predicciones y la confiabilidad de los modelos
+El trabajo se centra en la segmentación de lunares mediante deep ensembles, permitiendo evaluar la variabilidad en las predicciones y la confiabilidad de los modelos.
+
+## 📄 Licencia
+Proyecto académico de la Universidad Rey Juan Carlos.
